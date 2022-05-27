@@ -6,7 +6,7 @@
 /*   By: mmariani <mmariani@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/24 16:56:30 by mmariani          #+#    #+#             */
-/*   Updated: 2022/05/27 18:10:00 by mmariani         ###   ########.fr       */
+/*   Updated: 2022/05/27 18:15:15 by mmariani         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -118,7 +118,7 @@ char	*get_next_line(int fd)
 	// printf("HERERERER\n");
 	// exit(0);
 	temp = ft_copy(ret);
-	if ()
+	// if ()
 	ret = ft_trimstr(ret);
 	// printf("%s\n",temp);
 	return (temp);
